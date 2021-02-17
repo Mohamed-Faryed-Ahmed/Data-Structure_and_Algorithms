@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1608046408 source:e:\projects\c++\code\expression evalution\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<stack>
+	<string>
+	<cstring>
+

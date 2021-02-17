@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607697823 source:e:\projects\c++\code\balanced_stack\main.cpp
+	<iostream>
+	<stack>
+	<string>
+

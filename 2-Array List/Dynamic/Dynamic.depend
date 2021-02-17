@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1613410236 source:e:\projects\c++\code\17-dynamic array list\dynamic\main.cpp
+	<iostream>
+	<cassert>
+
+1613410236 source:e:\projects\c++\code\4-dynamic array list\dynamic\main.cpp
+	<iostream>
+	<cassert>
+

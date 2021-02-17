@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608066251 source:e:\projects\c++\code\circular queue\main.cpp
+	<iostream>
+	<cassert>
+	<string>
+
